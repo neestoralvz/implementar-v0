@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import ClientInit from './ClientInit'; 
-// import Diagnostics from './Diagnostics'; // Eliminar esta línea
 import ErrorSuppressor from './ErrorSuppressor';
 
 const geistSans = localFont({

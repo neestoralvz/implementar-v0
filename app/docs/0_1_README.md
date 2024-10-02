@@ -1,8 +1,8 @@
 # README.md
 
-Conversación con ChatGPT para instrucciones para generar documentación del proyecto: [ChatGPT](https://chatgpt.com/c/66fa8b4d-22b8-8002-9b3c-e2a6db2f1799)
+Conversación con ChatGPT para instrucciones para generar documentación del proyecto: [ChatGPT](https://chatgpt.com/c/66fd75ca-cfe4-8002-b08e-1a3a27fdfee3)
 
-Conversación con v0 de Vercel para generar interfaz de índice: [Enlace](https://v0.dev/chat/1MTAIcVRYm9)
+Conversación con v0 de Vercel para generar interfaz de índice: [Enlace]()
 
 ## Plantilla Base para Proyectos Frontend
 
