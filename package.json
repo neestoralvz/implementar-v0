@@ -9,7 +9,7 @@
     "lint": "next lint",
     "deploy": "vercel --prod",
     "commit": "git add . && git commit -m 'Deploy to Vercel'",
-    "bnd": "npm run build && npm run deploy && npm run commit && git push --force origin main"
+    "bnd": "npm i && npm run build && npm run deploy && npm run commit && git push --force origin main"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.0.1",
