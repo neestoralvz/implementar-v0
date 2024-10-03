@@ -1,12 +1,8 @@
 # README.md
 
-Conversación con ChatGPT para instrucciones para generar documentación del proyecto: [ChatGPT](https://chatgpt.com/c/66fd75ca-cfe4-8002-b08e-1a3a27fdfee3)
+## Interfaz Generada por Vercel v0
 
-Conversación con v0 de Vercel para generar interfaz de índice: [Enlace]()
-
-## Plantilla Base para Proyectos Frontend
-
-Este es un proyecto de plantilla base para el desarrollo de aplicaciones frontend, utilizando **Next.js** como framework principal y **shadcn/ui** como biblioteca de componentes de interfaz de usuario. Esta plantilla está diseñada para facilitar el inicio rápido de nuevos proyectos, ofreciendo una estructura preconfigurada y lista para el despliegue en **Vercel**.
+El objetivo del proyecto es implementar una interfaz generada por Vercel v0 dentro de una plantilla base, organizando los componentes de manera clara y conectándolos correctamente con el backend. Esta solución debe optimizar el flujo de trabajo y mejorar la escalabilidad mediante el uso de herramientas generativas y serverless, reduciendo significativamente el tiempo de desarrollo y garantizando una integración perfecta con las API backend.
 
 ## Guía para Crear un Nuevo Repositorio desde una Plantilla Usando CLI
 

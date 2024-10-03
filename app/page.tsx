@@ -9,27 +9,27 @@ export default function Page() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-100 to-gray-200 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-4xl font-bold text-center text-gray-900 mb-8">Plantilla Proyectos</h1>
-        <p className="text-center text-gray-700 mb-8">Esta es una plantilla para gestionar y documentar proyectos de manera eficiente.</p>
+        <h1 className="text-4xl font-bold text-center text-gray-900 mb-8">Interfaz Generada por Vercel v0</h1>
+        <p className="text-center text-gray-700 mb-8">Implementación de una interfaz generada automáticamente para optimizar el flujo de trabajo y mejorar la escalabilidad.</p>
         
         <div className="grid gap-6 md:grid-cols-2">
           <ResourceCard 
             title="Documentación"
-            description="Documentación detallada del proyecto"
+            description="Accede a la documentación del proceso de integración."
             icon={<FolderIcon className="h-6 w-6" />}
             href="/docs"
           />
           
           <ResourceCard 
-            title="Gestión de Proyectos"
-            description="Rastrear el progreso y las tareas del proyecto"
+            title="Backend Serverless"
+            description="Conexión eficiente con el backend serverless."
             icon={<BarChartIcon className="h-6 w-6" />}
-            href="https://your-project-management-tool.com"
+            href="https://vercel.com"
           />
           
           <ResourceCard 
-            title="Aplicación"
-            description="Acceder a la aplicación principal del proyecto"
+            title="Interfaz Principal"
+            description="Accede a la interfaz principal generada."
             icon={<LayersIcon className="h-6 w-6" />}
             href="/app"
           />

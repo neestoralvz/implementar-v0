@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Plantilla Proyectos",
-  description: "Crear una plantilla base para proyectos de desarrollo de software frontend, utilizando shadcn/ui como la herramienta principal para la interfaz de usuario. La plantilla estará lista para ser desplegada en Vercel, con una página de índice preconfigurada.",
+  title: "Interfaz Generada por Vercel v0",
+  description: "Implementación de una interfaz generada automáticamente para optimizar el flujo de trabajo y mejorar la escalabilidad mediante el uso de herramientas generativas y serverless.",
 };
 
 export default function RootLayout({
